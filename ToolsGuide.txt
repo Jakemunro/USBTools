@@ -1,0 +1,10 @@
+BleachBit - Better CCleaner. Remove temp files, clean up disk space. 
+HWInfo - System information, monitoring and disagnostics
+MWBytes - Remove malware
+PatchMyPC - Keep applications up to date
+Recuva - Recover deleted files
+Revo Uninstall - Uninstall utilities and clean-up system
+Nilesoft Shell setup - Fix right-click menu (Win11)
+WinAero Tweaker - Hidden Windows tweaks
+Windows Repair Toolbox - Repair Windows system files
+WSCC - Install, update, execute and organize utilities 
